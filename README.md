@@ -1,7 +1,7 @@
 # MetaSeg
 Meta Learning with Differentiable Closed-form Solver for Fast Video Object Segmentation
 
-by [Yu Liu](https://sites.google.com/site/yuliuunilau/home), Lingqiao Liu, Haokui Zhang, Hamid Rezatofighi, Qingsen Yan, Ian Reid
+by [Yu Liu](https://sites.google.com/site/yuliuunilau/home), [Lingqiao Liu](https://sites.google.com/site/lingqiaoliu83/home), Haokui Zhang, Hamid Rezatofighi, Qingsen Yan, Ian Reid
 
 Paper link: https://arxiv.org/abs/1909.13046
 
